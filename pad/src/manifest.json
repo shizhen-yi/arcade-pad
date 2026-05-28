@@ -1,0 +1,21 @@
+{
+  "name": "VirtualPad",
+  "appid": "__UNI__VPAD001",
+  "description": "无界手柄",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "h5": {
+    "title": "VirtualPad 手柄",
+    "router": { "mode": "hash" },
+    "devServer": { "port": 5174 }
+  },
+  "app-plus": {
+    "screenOrientation": ["landscape-primary", "landscape-secondary"],
+    "modules": {},
+    "distribute": {
+      "android": { "permissions": ["<uses-permission android:name=\"android.permission.VIBRATE\"/>"] },
+      "ios": {}
+    }
+  },
+  "vueVersion": "3"
+}

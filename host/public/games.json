@@ -1,0 +1,2541 @@
+{
+  "games": [
+    {
+      "name": "七宝奇谋",
+      "fullName": "七宝奇谋[王龙汉化小组汉化 MS修正](JP)[ACT](0.37Mb)",
+      "path": "roms/luyu(465).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "假面忍者 - 花丸",
+      "fullName": "假面忍者 - 花丸[Peacock Wang汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(245).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "假面的忍者 - 赤影",
+      "fullName": "假面的忍者 - 赤影[MS汉化](JP)[ACT](1Mb)",
+      "path": "roms/luyu(244).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "光之神话 - 天使岛传说",
+      "fullName": "光之神话 - 天使岛传说[MS汉化](UE)[ACT](1Mb)",
+      "path": "roms/luyu(181).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 131215
+    },
+    {
+      "name": "冒险岛",
+      "fullName": "冒险岛[Justin汉化](US)[ACT](0.5Mb)",
+      "path": "roms/luyu(402).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "冒险岛",
+      "fullName": "冒险岛[九班汉化](JP)[ACT](0.5Mb)",
+      "path": "roms/luyu(403).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 393232
+    },
+    {
+      "name": "冒险岛",
+      "fullName": "冒险岛[未知](JP)[ACT](0.5Mb)",
+      "path": "roms/luyu(404).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "冒险岛2",
+      "fullName": "冒险岛2 (v20101231)[Nokoh汉化](JP)[ACT](2.12Mb)",
+      "path": "roms/luyu(395).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "冒险岛2",
+      "fullName": "冒险岛2[高艳龙汉化 MS修正](US)[ACT](2Mb)",
+      "path": "roms/luyu(396).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 65680
+    },
+    {
+      "name": "冒险岛3",
+      "fullName": "冒险岛3 (v20110101)[Nokoh汉化](JP)[ACT](2.18Mb)",
+      "path": "roms/luyu(397).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "冒险岛3",
+      "fullName": "冒险岛3[高艳龙汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(398).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 278544
+    },
+    {
+      "name": "冒险岛3",
+      "fullName": "冒险岛3[烈火暴龙汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(399).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "冒险岛4",
+      "fullName": "冒险岛4 (v20121002)[Nokoh汉化](JP)[ACT](4Mb)",
+      "path": "roms/luyu(400).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 286736
+    },
+    {
+      "name": "冒险岛4",
+      "fullName": "冒险岛4 (v3.0)[九班汉化](JP)[ACT](3Mb)",
+      "path": "roms/luyu(401).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "前线大作战",
+      "fullName": "前线大作战[MS汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(476).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "剑王",
+      "fullName": "剑王[金明汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(246).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "加菲猫",
+      "fullName": "加菲猫[快乐的龙汉化](JP)[ACT](5.25Mb)",
+      "path": "roms/luyu(240).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 393232
+    },
+    {
+      "name": "南极冒险",
+      "fullName": "南极冒险 (v2.0)[九班汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(444).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24720
+    },
+    {
+      "name": "南极大冒险",
+      "fullName": "南极大冒险 (v20100423)[Nokoh汉化](JP)[ACT](0.25Mb)",
+      "path": "roms/luyu(443).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 32784
+    },
+    {
+      "name": "双截龙2",
+      "fullName": "双截龙2 (v1.1)[星空汉化](JP)[ACT](2.5Mb)",
+      "path": "roms/luyu(621).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "双截龙2",
+      "fullName": "双截龙2[Madcell汉化](JP)[ACT](2.5Mb)",
+      "path": "roms/luyu(622).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "双截龙2",
+      "fullName": "双截龙2[阿渊汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(623).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 327696
+    },
+    {
+      "name": "双截龙3",
+      "fullName": "双截龙3 (v1.1)[星空汉化](US)[ACT](2.5Mb)",
+      "path": "roms/luyu(624).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 327696
+    },
+    {
+      "name": "双截龙3",
+      "fullName": "双截龙3[Madcell汉化](JP)[ACT](2.25Mb)",
+      "path": "roms/luyu(625).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "双截龙3",
+      "fullName": "双截龙3[幻想汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(626).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 327696
+    },
+    {
+      "name": "口袋里的魔鬼",
+      "fullName": "口袋里的魔鬼[MM之神汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(296).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "哆啦A梦",
+      "fullName": "哆啦A梦 (v20090616)[Nokoh汉化](JP)[ACT](1.37Mb)",
+      "path": "roms/luyu(137).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "哈利传奇",
+      "fullName": "哈利传奇[天空联盟汉化](CN)[ACT](2Mb)",
+      "path": "roms/luyu(183).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "地道战",
+      "fullName": "地道战[外星科技](CN)[ACT](4Mb)",
+      "path": "roms/luyu(113).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "大力水手",
+      "fullName": "大力水手[MS汉化](JUE)[ACT](0.18Mb)",
+      "path": "roms/luyu(101).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "大金刚",
+      "fullName": "大金刚[MS汉化](JUE)[ACT](0.18Mb)",
+      "path": "roms/luyu(97).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "大金刚",
+      "fullName": "大金刚[Madcell汉化](JUE)[ACT](0.37Mb)",
+      "path": "roms/luyu(98).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "大金刚 - 香蕉船",
+      "fullName": "大金刚 - 香蕉船[两亦](CN)[ACT](4Mb)",
+      "path": "roms/luyu(94).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "大金刚3",
+      "fullName": "大金刚3[MS汉化](JUE)[ACT](0.18Mb)",
+      "path": "roms/luyu(95).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "大金刚Jr",
+      "fullName": "大金刚Jr[MS汉化](JUE)[ACT](0.18Mb)",
+      "path": "roms/luyu(96).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "忍者特训",
+      "fullName": "忍者特训[金明汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(527).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "忍者神龟2",
+      "fullName": "忍者神龟2[勒大治汉化 MS修正](US)[ACT](4Mb)",
+      "path": "roms/luyu(523).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "忍者神龟2",
+      "fullName": "忍者神龟2[星空汉化](US)[ACT](4Mb)",
+      "path": "roms/luyu(524).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "忍者神龟2",
+      "fullName": "忍者神龟2[樱组汉化](US)[ACT](4Mb)",
+      "path": "roms/luyu(525).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "忍者龙剑传",
+      "fullName": "忍者龙剑传[TPU汉化](JP)[ACT](3Mb)",
+      "path": "roms/luyu(520).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 344080
+    },
+    {
+      "name": "忍者龙剑传3 - 黄泉方舟",
+      "fullName": "忍者龙剑传3 - 黄泉方舟[Peacock Wang汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(518).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 335888
+    },
+    {
+      "name": "忍者龙剑传3 - 黄泉方舟",
+      "fullName": "忍者龙剑传3 - 黄泉方舟[TPU汉化](JP)[ACT](2.62Mb)",
+      "path": "roms/luyu(519).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "忍者龟2",
+      "fullName": "忍者龟2 (v20101223)[Nokoh汉化](US)[ACT](4Mb)",
+      "path": "roms/luyu(515).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "快乐比奇III - 地球战士",
+      "fullName": "快乐比奇III - 地球战士[WXN Decryption](CN)[ACT](4Mb)",
+      "path": "roms/luyu(312).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "快乐猫",
+      "fullName": "快乐猫[MM之神汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(313).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "快打旋风",
+      "fullName": "快打旋风[Antigloss汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(304).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 393232
+    },
+    {
+      "name": "快打旋风",
+      "fullName": "快打旋风[Madcell汉化](JP)[ACT](2.25Mb)",
+      "path": "roms/luyu(306).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "快打旋风",
+      "fullName": "快打旋风[老代汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(307).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "快打旋风",
+      "fullName": "快打旋风[模拟中文网汉化 MS修正](US)[ACT](2Mb)",
+      "path": "roms/luyu(308).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "快打旋风3",
+      "fullName": "快打旋风3[dfqshy汉化](CN)[ACT](6Mb)",
+      "path": "roms/luyu(303).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "恶魔之剑",
+      "fullName": "恶魔之剑[Antigloss汉化 MS修正](US)[ACT](2Mb)",
+      "path": "roms/luyu(146).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "恶魔城2 - 西蒙的任务",
+      "fullName": "恶魔城2 - 西蒙的任务 (繁体中文版) (v1.1)[未名汉化组汉化](US)[ACT](3Mb)",
+      "path": "roms/luyu(142).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "成龙之龙",
+      "fullName": "成龙之龙[王龙汉化小组汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(65).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "成龙之龙",
+      "fullName": "成龙之龙[俞亮汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(66).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "成龙踢馆",
+      "fullName": "成龙踢馆[MM之神汉化](JP)[ACT](0.31Mb)",
+      "path": "roms/luyu(64).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "救火英雄",
+      "fullName": "救火英雄[cslrxyz汉化](JP)[ACT](1Mb)",
+      "path": "roms/luyu(266).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "敲冰块",
+      "fullName": "敲冰块 (v20120102)[Nokoh汉化](JP)[ACT](0.37Mb)",
+      "path": "roms/luyu(477).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "敲冰块",
+      "fullName": "敲冰块[F0REVERD汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(478).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "敲冰块",
+      "fullName": "敲冰块[MS汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(479).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "敲冰块",
+      "fullName": "敲冰块[水火汉化](JP)[ACT](0.37Mb)",
+      "path": "roms/luyu(480).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "斗者的挽歌",
+      "fullName": "斗者的挽歌[孔雀天汉化](JP)[ACT](1Mb)",
+      "path": "roms/luyu(132).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "机器子战记",
+      "fullName": "机器子战记 (v20111228)[Nokoh汉化](JP)[ACT](5.12Mb)",
+      "path": "roms/luyu(235).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "梦之勇士",
+      "fullName": "梦之勇士[冰组汉化](JP)[ACT](2.5Mb)",
+      "path": "roms/luyu(416).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 327696
+    },
+    {
+      "name": "梦之勇士",
+      "fullName": "梦之勇士[中伟汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(417).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "梦企鹅物语",
+      "fullName": "梦企鹅物语[天蝎之忆汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(415).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "气球大战",
+      "fullName": "气球大战[MS汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(474).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "气球大战",
+      "fullName": "气球大战[快乐的龙汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(475).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "泡泡龙",
+      "fullName": "泡泡龙 (v20101230)[Nokoh汉化](US)[ACT](1.43Mb)",
+      "path": "roms/luyu(451).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 188432
+    },
+    {
+      "name": "泡泡龙2",
+      "fullName": "泡泡龙2[MM之神汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(453).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "洛克人",
+      "fullName": "洛克人[3DM汉化](US)[ACT](1Mb)",
+      "path": "roms/luyu(373).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "洛克人",
+      "fullName": "洛克人[MS汉化](JP)[ACT](1Mb)",
+      "path": "roms/luyu(374).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "洛克人",
+      "fullName": "洛克人[俞亮汉化](JP)[ACT](1Mb)",
+      "path": "roms/luyu(375).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "洛克人2",
+      "fullName": "洛克人2[NeoX汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(360).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 393232
+    },
+    {
+      "name": "洛克人2 - Dr.Wily之谜",
+      "fullName": "洛克人2 - Dr.Wily之谜[MS汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(359).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "洛克人3 - Dr.Wily的末日",
+      "fullName": "洛克人3 - Dr.Wily的末日[MS汉化](JP)[ACT](3Mb)",
+      "path": "roms/luyu(361).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "洛克人4 - 新的野心",
+      "fullName": "洛克人4 - 新的野心[MS汉化](JP)[ACT](4Mb)",
+      "path": "roms/luyu(362).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "洛克人4 - 新的野心",
+      "fullName": "洛克人4 - 新的野心[中伟汉化](JP)[ACT](4Mb)",
+      "path": "roms/luyu(363).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "洛克人5 - 布鲁斯的圈套",
+      "fullName": "洛克人5 - 布鲁斯的圈套[MS汉化](JP)[ACT](4Mb)",
+      "path": "roms/luyu(364).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 540688
+    },
+    {
+      "name": "洛克人5 - 布鲁斯的圈套",
+      "fullName": "洛克人5 - 布鲁斯的圈套[Shinwa汉化](JP)[ACT](4.12Mb)",
+      "path": "roms/luyu(365).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 1048608
+    },
+    {
+      "name": "洛克人5 - 布鲁斯的圈套",
+      "fullName": "洛克人5 - 布鲁斯的圈套[中伟汉化](JP)[ACT](8Mb)",
+      "path": "roms/luyu(366).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "洛克人6 - 史上最大的战争",
+      "fullName": "洛克人6 - 史上最大的战争 (v20061219)[Madcell汉化](JP)[ACT](4Mb)",
+      "path": "roms/luyu(369).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "洛克人6 - 史上最长的战斗",
+      "fullName": "洛克人6 - 史上最长的战斗[MS汉化](JP)[ACT](4Mb)",
+      "path": "roms/luyu(367).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "洛克人6 - 史上最长的战斗",
+      "fullName": "洛克人6 - 史上最长的战斗[不知所云汉化](JP)[ACT](4Mb)",
+      "path": "roms/luyu(368).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "洛克人Exile",
+      "fullName": "洛克人Exile[中伟汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(370).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "火龙",
+      "fullName": "火龙[三协资讯](CN)[ACT](0.31Mb)",
+      "path": "roms/luyu(222).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 40976
+    },
+    {
+      "name": "灵界护法",
+      "fullName": "灵界护法[外星科技](CN)[ACT](4Mb)",
+      "path": "roms/luyu(326).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "热血物语",
+      "fullName": "热血物语[AIR汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(499).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "爱的小屋",
+      "fullName": "爱的小屋[MS汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(5).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "猫之狂欢",
+      "fullName": "猫之狂欢 (v1.0)[九班汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(391).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "猫捉老鼠",
+      "fullName": "猫捉老鼠[来福汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(392).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "猫捉老鼠",
+      "fullName": "猫捉老鼠[奇玉汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(393).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "玛莉欧兄弟拆屋工",
+      "fullName": "玛莉欧兄弟拆屋工 (v20110409)[Nokoh汉化](JUE)[ACT](0.75Mb)",
+      "path": "roms/luyu(381).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "皮卡丘Y2K",
+      "fullName": "皮卡丘Y2K[天空联盟汉化](CN)[ACT](2Mb)",
+      "path": "roms/luyu(456).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "盗帅",
+      "fullName": "盗帅[Joy Van](CN)[ACT](0.5Mb)",
+      "path": "roms/luyu(112).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "碰碰车",
+      "fullName": "碰碰车[MS汉化](US)[ACT](0.5Mb)",
+      "path": "roms/luyu(454).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "米老鼠",
+      "fullName": "米老鼠[星空汉化](JP)[ACT](0.5Mb)",
+      "path": "roms/luyu(421).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "纽约大拳猫",
+      "fullName": "纽约大拳猫[MS汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(447).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "绿色兵团",
+      "fullName": "绿色兵团[SW汉化](US)[ACT](1Mb)",
+      "path": "roms/luyu(354).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "绿色兵团",
+      "fullName": "绿色兵团[星空汉化](US)[ACT](1Mb)",
+      "path": "roms/luyu(355).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "绿野仙踪",
+      "fullName": "绿野仙踪[外星科技](CN)[ACT](4Mb)",
+      "path": "roms/luyu(356).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "美猴王",
+      "fullName": "美猴王[WXN Decryption](CN)[ACT](4Mb)",
+      "path": "roms/luyu(406).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "茶茶丸之大冒险",
+      "fullName": "茶茶丸之大冒险[Nineswords汉化](JP)[ACT](0.5Mb)",
+      "path": "roms/luyu(28).nes",
+      "mapper": 66,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "菩故须苛战争",
+      "fullName": "菩故须苛战争[Rinkaku汉化](JP)[ACT](0.31Mb)",
+      "path": "roms/luyu(464).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 40976
+    },
+    {
+      "name": "虎穴行动",
+      "fullName": "虎穴行动[孔雀天汉化](JP)[ACT](6Mb)",
+      "path": "roms/luyu(200).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 786464
+    },
+    {
+      "name": "赤影战士",
+      "fullName": "赤影战士 (v2.0)[星空汉化](JP)[ACT](2.06Mb)",
+      "path": "roms/luyu(69).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 270352
+    },
+    {
+      "name": "赤影战士",
+      "fullName": "赤影战士 (小字版)[来福汉化](EU)[ACT](2Mb)",
+      "path": "roms/luyu(70).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "赤影战士",
+      "fullName": "赤影战士[GXB汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(71).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "赤影战士",
+      "fullName": "赤影战士[来福汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(72).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "超惑星战记",
+      "fullName": "超惑星战记[樱组汉化 MS修正](US)[ACT](2Mb)",
+      "path": "roms/luyu(29).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "超级战魂",
+      "fullName": "超级战魂[外星科技](CN)[ACT](2Mb)",
+      "path": "roms/luyu(56).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "超级玛莉",
+      "fullName": "超级玛莉[PKome汉化](JUE)[ACT](0.31Mb)",
+      "path": "roms/luyu(42).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 40976
+    },
+    {
+      "name": "超级玛莉欧兄弟",
+      "fullName": "超级玛莉欧兄弟 (v20120903)[Nokoh汉化](JUE)[ACT](0.75Mb)",
+      "path": "roms/luyu(43).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 40976
+    },
+    {
+      "name": "超级玛莉欧兄弟2",
+      "fullName": "超级玛莉欧兄弟2 (v20110328)[Nokoh汉化](US)[ACT](2.12Mb)",
+      "path": "roms/luyu(44).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 40976
+    },
+    {
+      "name": "超级贪吃蛇",
+      "fullName": "超级贪吃蛇[菜菜学堂](CN)[ACT](0.43Mb)",
+      "path": "roms/luyu(52).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 57360
+    },
+    {
+      "name": "超级马里奥兄弟",
+      "fullName": "超级马里奥兄弟[F0REVERD汉化](JUE)[ACT](0.31Mb)",
+      "path": "roms/luyu(49).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 278544
+    },
+    {
+      "name": "超级马里奥兄弟",
+      "fullName": "超级马里奥兄弟[九班汉化](EU)[ACT](0.31Mb)",
+      "path": "roms/luyu(50).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 458768
+    },
+    {
+      "name": "超级马里奥兄弟",
+      "fullName": "超级马里奥兄弟[未知 (MS修正)](JUE)[ACT](0.31Mb)",
+      "path": "roms/luyu(51).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 458768
+    },
+    {
+      "name": "超级马里奥兄弟3",
+      "fullName": "超级马里奥兄弟3[MM之神汉化](JP)[ACT](3Mb)",
+      "path": "roms/luyu(47).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 40976
+    },
+    {
+      "name": "超级魂2",
+      "fullName": "超级魂2[烟山软件修改](CN)[ACT](1Mb)",
+      "path": "roms/luyu(33).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "超级魂斗罗",
+      "fullName": "超级魂斗罗 (v2.0)[九班汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(34).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "超级魂斗罗",
+      "fullName": "超级魂斗罗 (版本1) (v2)[星空汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(35).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "超级魂斗罗",
+      "fullName": "超级魂斗罗 (版本2) (v2)[星空汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(36).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "超级魂斗罗",
+      "fullName": "超级魂斗罗[FlameCyclone汉化](JP)[ACT](3Mb)",
+      "path": "roms/luyu(38).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 253968
+    },
+    {
+      "name": "超级魂斗罗",
+      "fullName": "超级魂斗罗[王大可汉化](US)[ACT](1.93Mb)",
+      "path": "roms/luyu(39).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "超级魂斗罗",
+      "fullName": "超级魂斗罗[樱组汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(40).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "超级魂斗罗X",
+      "fullName": "超级魂斗罗X[孔雀天汉化](CN)[ACT](4Mb)",
+      "path": "roms/luyu(37).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 393232
+    },
+    {
+      "name": "镜花缘",
+      "fullName": "镜花缘[外星科技](CN)[ACT](2Mb)",
+      "path": "roms/luyu(264).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "阿尔戈斯战士",
+      "fullName": "阿尔戈斯战士 (v1.11)[汉化你妹汉化组汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(1).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "阿尔戈斯战士",
+      "fullName": "阿尔戈斯战士[孔雀天汉化 MS修正](JP)[ACT](1Mb)",
+      "path": "roms/luyu(2).nes",
+      "mapper": 2,
+      "category": "ACT",
+      "size": 131088
+    },
+    {
+      "name": "阿拉丁",
+      "fullName": "阿拉丁[叶枫汉化](CN)[ACT](4Mb)",
+      "path": "roms/luyu(3).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "霹雳神兵",
+      "fullName": "霹雳神兵[金明汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(455).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "餐厅争夺战",
+      "fullName": "餐厅争夺战[九班汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(26).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "马戏团",
+      "fullName": "马戏团 (v1.1)[九班汉化](JP)[ACT](0.18Mb)",
+      "path": "roms/luyu(387).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "马戏团",
+      "fullName": "马戏团 (v20100512)[Nokoh汉化](JP)[ACT](0.37Mb)",
+      "path": "roms/luyu(388).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "马戏团",
+      "fullName": "马戏团[水火汉化](JP)[ACT](0.37Mb)",
+      "path": "roms/luyu(390).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 65552
+    },
+    {
+      "name": "马里奥兄弟",
+      "fullName": "马里奥兄弟[Madcell汉化](JUE)[ACT](0.37Mb)",
+      "path": "roms/luyu(384).nes",
+      "mapper": 0,
+      "category": "ACT",
+      "size": 24592
+    },
+    {
+      "name": "马里奥兄弟",
+      "fullName": "马里奥兄弟[水火汉化](JUE)[ACT](0.37Mb)",
+      "path": "roms/luyu(385).nes",
+      "mapper": 3,
+      "category": "ACT",
+      "size": 49168
+    },
+    {
+      "name": "魂斗罗",
+      "fullName": "魂斗罗[九班汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(215).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 393232
+    },
+    {
+      "name": "魂斗罗力量",
+      "fullName": "魂斗罗力量[MS汉化](US)[ACT](2Mb)",
+      "path": "roms/luyu(219).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 278544
+    },
+    {
+      "name": "魔法总动员",
+      "fullName": "魔法总动员[混沌星辰汉化 MS修正](US)[ACT](2Mb)",
+      "path": "roms/luyu(428).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "鸟人战队",
+      "fullName": "鸟人战队[烈火暴龙汉化](JP)[ACT](2Mb)",
+      "path": "roms/luyu(446).nes",
+      "mapper": 1,
+      "category": "ACT",
+      "size": 262160
+    },
+    {
+      "name": "黑客",
+      "fullName": "黑客[南晶科技](CN)[ACT](4Mb)",
+      "path": "roms/luyu(191).nes",
+      "mapper": 4,
+      "category": "ACT",
+      "size": 524304
+    },
+    {
+      "name": "列车奇案",
+      "fullName": "列车奇案[酷哥电子](JP)[AVG](4Mb)",
+      "path": "roms/luyu(323).nes",
+      "mapper": 4,
+      "category": "AVG",
+      "size": 524304
+    },
+    {
+      "name": "荣誉勋章",
+      "fullName": "荣誉勋章[外星科技汉化](JP)[AVG](4Mb)",
+      "path": "roms/luyu(532).nes",
+      "mapper": 4,
+      "category": "AVG",
+      "size": 524304
+    },
+    {
+      "name": "地狱极乐丸",
+      "fullName": "地狱极乐丸(v1.0)[DMG](3Mb)",
+      "path": "roms/luyu(114).nes",
+      "mapper": 4,
+      "category": "DMG",
+      "size": 393232
+    },
+    {
+      "name": "大力工头 阿源君",
+      "fullName": "大力工头 阿源君(v1.0)[DMG](3Mb)",
+      "path": "roms/luyu(99).nes",
+      "mapper": 4,
+      "category": "DMG",
+      "size": 393232
+    },
+    {
+      "name": "激龟忍者传",
+      "fullName": "激龟忍者传(v1.0)[DMG](3Mb)",
+      "path": "roms/luyu(238).nes",
+      "mapper": 5,
+      "category": "DMG",
+      "size": 393232
+    },
+    {
+      "name": "动动脑2 - 国中英文",
+      "fullName": "动动脑2 - 国中英文[Sachen](CN)[ETC](0.5Mb)",
+      "path": "roms/luyu(131).nes",
+      "mapper": 3,
+      "category": "ETC",
+      "size": 65552
+    },
+    {
+      "name": "卡拉OK演示",
+      "fullName": "卡拉OK演示[maxzhou88](CN)[ETC](2Mb)",
+      "path": "roms/luyu(271).nes",
+      "mapper": 4,
+      "category": "ETC",
+      "size": 262160
+    },
+    {
+      "name": "康体舞王",
+      "fullName": "康体舞王[未知](CN)[ETC](2Mb)",
+      "path": "roms/luyu(272).nes",
+      "mapper": 7,
+      "category": "ETC",
+      "size": 262160
+    },
+    {
+      "name": "疯狂鸡蛋仔",
+      "fullName": "疯狂鸡蛋仔[外星科技](CN)[ETC](3Mb)",
+      "path": "roms/luyu(162).nes",
+      "mapper": 4,
+      "category": "ETC",
+      "size": 393232
+    },
+    {
+      "name": "赖皮狗",
+      "fullName": "赖皮狗(还原日版标题)[Advance](3Mb)",
+      "path": "roms/luyu(317).nes",
+      "mapper": 4,
+      "category": "ETC",
+      "size": 393232
+    },
+    {
+      "name": "超级中国人2[汉化你妹汉化组",
+      "fullName": "超级中国人2(超级中国拳2)(v1.0)[汉化你妹汉化组(4Mb)",
+      "path": "roms/luyu(57).nes",
+      "mapper": 5,
+      "category": "ETC",
+      "size": 524304
+    },
+    {
+      "name": "金卡V5",
+      "fullName": "金卡V5[科王](CN)[ETC](4Mb)",
+      "path": "roms/luyu(254).nes",
+      "mapper": 2,
+      "category": "ETC",
+      "size": 1048592
+    },
+    {
+      "name": "金字塔PEC-686F学习卡",
+      "fullName": "金字塔PEC-686F学习卡[东达](CN)[ETC](4Mb)",
+      "path": "roms/luyu(259).nes",
+      "mapper": 0,
+      "category": "ETC",
+      "size": 24592
+    },
+    {
+      "name": "金字塔PEC-9588学习卡",
+      "fullName": "金字塔PEC-9588学习卡[东达](CN)[ETC](4Mb)",
+      "path": "roms/luyu(260).nes",
+      "mapper": 0,
+      "category": "ETC",
+      "size": 32784
+    },
+    {
+      "name": "魔城传说2",
+      "fullName": "魔城传说2 (v2.2)[汉化你妹汉化组](2Mb)",
+      "path": "roms/luyu(423).nes",
+      "mapper": 4,
+      "category": "ETC",
+      "size": 262160
+    },
+    {
+      "name": "包青天",
+      "fullName": "包青天[WXN Decryption](CN)[FTG](3Mb)",
+      "path": "roms/luyu(14).nes",
+      "mapper": 4,
+      "category": "FTG",
+      "size": 393232
+    },
+    {
+      "name": "忍者龟格斗",
+      "fullName": "忍者龟格斗 (v20160403)[Nokoh汉化](US)[FTG](2.25Mb)",
+      "path": "roms/luyu(516).nes",
+      "mapper": 4,
+      "category": "FTG",
+      "size": 294928
+    },
+    {
+      "name": "激龟格斗",
+      "fullName": "激龟格斗 (v1.0)[星空汉化](US)[FTG](2.37Mb)",
+      "path": "roms/luyu(237).nes",
+      "mapper": 4,
+      "category": "FTG",
+      "size": 311312
+    },
+    {
+      "name": "热血格斗传说",
+      "fullName": "热血格斗传说[Old Liu汉化](JP)[FTG](2Mb)",
+      "path": "roms/luyu(490).nes",
+      "mapper": 4,
+      "category": "FTG",
+      "size": 262160
+    },
+    {
+      "name": "街头格斗小子",
+      "fullName": "街头格斗小子[天空联盟汉化](JUE)[FTG](0.18Mb)",
+      "path": "roms/luyu(251).nes",
+      "mapper": 0,
+      "category": "FTG",
+      "size": 24592
+    },
+    {
+      "name": "企鹅先生 - 冒险之旅",
+      "fullName": "企鹅先生 - 冒险之旅[MS汉化](JP)[PUZ](0.18Mb)",
+      "path": "roms/luyu(471).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 24592
+    },
+    {
+      "name": "俄罗斯方块",
+      "fullName": "俄罗斯方块 (v1.1)[九班汉化](US)[PUZ](0.5Mb)",
+      "path": "roms/luyu(140).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65680
+    },
+    {
+      "name": "俄罗斯方块",
+      "fullName": "俄罗斯方块[佛易汉化组 8GUA汉化 MS修正](US)[PUZ](0.5Mb)",
+      "path": "roms/luyu(141).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "口袋妖怪四合一",
+      "fullName": "口袋妖怪四合一[火星电子](CN)[PUZ](2Mb)",
+      "path": "roms/luyu(300).nes",
+      "mapper": 4,
+      "category": "PUZ",
+      "size": 262160
+    },
+    {
+      "name": "吃豆小精灵",
+      "fullName": "吃豆小精灵[MS汉化](JP)[PUZ](0.18Mb)",
+      "path": "roms/luyu(67).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 24592
+    },
+    {
+      "name": "埃及",
+      "fullName": "埃及[MS汉化](JP)[PUZ](0.5Mb)",
+      "path": "roms/luyu(4).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "大眼蛙大冒险",
+      "fullName": "大眼蛙大冒险 (v1.0)[九班汉化](JP)[PUZ](0.5Mb)",
+      "path": "roms/luyu(105).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "弹射球",
+      "fullName": "弹射球[佛易汉化组 8GUA汉化 MS修正](JP)[PUZ](0.31Mb)",
+      "path": "roms/luyu(107).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 40976
+    },
+    {
+      "name": "愤怒的小鸟",
+      "fullName": "愤怒的小鸟[九班汉化](JP)[PUZ](0.5Mb)",
+      "path": "roms/luyu(153).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "愤怒的小鸟",
+      "fullName": "愤怒的小鸟[快乐的龙汉化][PUZ](0.75Mb)",
+      "path": "roms/luyu(154).nes",
+      "mapper": 4,
+      "category": "PUZ",
+      "size": 98320
+    },
+    {
+      "name": "打空气",
+      "fullName": "打空气[MM之神汉化](JP)[PUZ](0.18Mb)",
+      "path": "roms/luyu(87).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 24592
+    },
+    {
+      "name": "摩艾君",
+      "fullName": "摩艾君[九班汉化](JP)[PUZ](0.5Mb)",
+      "path": "roms/luyu(422).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "斗智拼盘",
+      "fullName": "斗智拼盘[Sun Team](CN)[PUZ](0.5Mb)",
+      "path": "roms/luyu(133).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "暴走淘金者",
+      "fullName": "暴走淘金者[九班汉化](US)[PUZ](0.18Mb)",
+      "path": "roms/luyu(17).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 24592
+    },
+    {
+      "name": "暴走淘金者2",
+      "fullName": "暴走淘金者2[九班汉化](JP)[PUZ](0.18Mb)",
+      "path": "roms/luyu(16).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 24592
+    },
+    {
+      "name": "汉堡包",
+      "fullName": "汉堡包[金明汉化](US)[PUZ](0.18Mb)",
+      "path": "roms/luyu(184).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 24592
+    },
+    {
+      "name": "炸弹人",
+      "fullName": "炸弹人[MS汉化](JP)[PUZ](0.18Mb)",
+      "path": "roms/luyu(866).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 49168
+    },
+    {
+      "name": "炸弹人",
+      "fullName": "炸弹人[惊风汉化](JP)[PUZ](0.37Mb)",
+      "path": "roms/luyu(867).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 49168
+    },
+    {
+      "name": "玛莉医生",
+      "fullName": "玛莉医生[Puszta汉化](JU)[PUZ](0.5Mb)",
+      "path": "roms/luyu(382).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 49168
+    },
+    {
+      "name": "趣味方块",
+      "fullName": "趣味方块[水火汉化](JP)[PUZ](0.5Mb)",
+      "path": "roms/luyu(481).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "轰炸超人",
+      "fullName": "轰炸超人 (v20100411)[Nokoh汉化](JP)[PUZ](0.31Mb)",
+      "path": "roms/luyu(193).nes",
+      "mapper": 3,
+      "category": "PUZ",
+      "size": 40976
+    },
+    {
+      "name": "轰炸超人II",
+      "fullName": "轰炸超人II (v20110309)[Nokoh汉化](JP)[PUZ](1Mb)",
+      "path": "roms/luyu(194).nes",
+      "mapper": 1,
+      "category": "PUZ",
+      "size": 131088
+    },
+    {
+      "name": "马步迷阵 & 趣味成语屋",
+      "fullName": "马步迷阵 & 趣味成语屋[小霸王](CN)[PUZ](2Mb)",
+      "path": "roms/luyu(383).nes",
+      "mapper": 1,
+      "category": "PUZ",
+      "size": 65552
+    },
+    {
+      "name": "马里奥医生",
+      "fullName": "马里奥医生 (v2.0)[九班汉化](JU)[PUZ](0.5Mb)",
+      "path": "roms/luyu(386).nes",
+      "mapper": 0,
+      "category": "PUZ",
+      "size": 24592
+    },
+    {
+      "name": "九七港京拉力赛车",
+      "fullName": "九七港京拉力赛车[天苑软件](CN)[RAC](2Mb)",
+      "path": "roms/luyu(265).nes",
+      "mapper": 4,
+      "category": "RAC",
+      "size": 262160
+    },
+    {
+      "name": "公路之星",
+      "fullName": "公路之星 (v1.0)[九班汉化](US)[RAC](1Mb)",
+      "path": "roms/luyu(174).nes",
+      "mapper": 1,
+      "category": "RAC",
+      "size": 131088
+    },
+    {
+      "name": "公路之星2",
+      "fullName": "公路之星2 (v1.0)[九班汉化](US)[RAC](1Mb)",
+      "path": "roms/luyu(175).nes",
+      "mapper": 4,
+      "category": "RAC",
+      "size": 131088
+    },
+    {
+      "name": "公路赛车",
+      "fullName": "公路赛车[阿渊汉化](JP)[RAC](0.5Mb)",
+      "path": "roms/luyu(173).nes",
+      "mapper": 0,
+      "category": "RAC",
+      "size": 65552
+    },
+    {
+      "name": "火箭飞车",
+      "fullName": "火箭飞车 (v1.2)[九班汉化](JP)[RAC](0.18Mb)",
+      "path": "roms/luyu(221).nes",
+      "mapper": 0,
+      "category": "RAC",
+      "size": 24592
+    },
+    {
+      "name": "超级冲刺赛",
+      "fullName": "超级冲刺赛[快乐的龙汉化](JP)[RAC](1Mb)",
+      "path": "roms/luyu(30).nes",
+      "mapper": 4,
+      "category": "RAC",
+      "size": 131088
+    },
+    {
+      "name": "迷魂车",
+      "fullName": "迷魂车[黄信维](CN)[RAC](0.31Mb)",
+      "path": "roms/luyu(420).nes",
+      "mapper": 0,
+      "category": "RAC",
+      "size": 40976
+    },
+    {
+      "name": "东方传说 - 封印岛",
+      "fullName": "东方传说 - 封印岛[南晶科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(126).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "东方的传说",
+      "fullName": "东方的传说[外星科技汉化](JP)[RPG](1Mb)",
+      "path": "roms/luyu(128).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 131088
+    },
+    {
+      "name": "傲视天地",
+      "fullName": "傲视天地[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(10).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "光明之神",
+      "fullName": "光明之神[酷哥电子](CN)[RPG](4Mb)",
+      "path": "roms/luyu(180).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "刀剑英雄传",
+      "fullName": "刀剑英雄传[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(109).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "创世纪英雄",
+      "fullName": "创世纪英雄[外星科技汉化](JP)[RPG](4Mb)",
+      "path": "roms/luyu(86).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "剑侠情缘",
+      "fullName": "剑侠情缘[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(247).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "匹诺槽的复苏",
+      "fullName": "匹诺槽的复苏[外星科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(457).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "口袋妖怪 - 绿叶版",
+      "fullName": "口袋妖怪 - 绿叶版[恒格电子](CN)[RPG](8Mb)",
+      "path": "roms/luyu(298).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽 - 水晶版",
+      "fullName": "口袋怪兽 - 水晶版[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(285).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽 - 珍珠版",
+      "fullName": "口袋怪兽 - 珍珠版[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(286).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽 - 白玉版",
+      "fullName": "口袋怪兽 - 白玉版[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(283).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽 - 绿叶版",
+      "fullName": "口袋怪兽 - 绿叶版[恒格电子](CN)[RPG](8Mb)",
+      "path": "roms/luyu(284).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽 - 翡翠版",
+      "fullName": "口袋怪兽 - 翡翠版[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(288).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽 - 钻石版",
+      "fullName": "口袋怪兽 - 钻石版[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(287).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽 绿 - 绿叶版",
+      "fullName": "口袋怪兽 绿 - 绿叶版[恒格电子](CN)[RPG](8Mb)",
+      "path": "roms/luyu(289).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "口袋怪兽II",
+      "fullName": "口袋怪兽II[恒格电子](CN)[RPG](8Mb)",
+      "path": "roms/luyu(291).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048848
+    },
+    {
+      "name": "口袋怪兽III",
+      "fullName": "口袋怪兽III[恒格电子](CN)[RPG](8Mb)",
+      "path": "roms/luyu(290).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "古墓丽影",
+      "fullName": "古墓丽影[南晶科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(177).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "合金风暴",
+      "fullName": "合金风暴[南晶科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(187).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 262160
+    },
+    {
+      "name": "哥伦布传",
+      "fullName": "哥伦布传[外星科技汉化](JP)[RPG](4Mb)",
+      "path": "roms/luyu(168).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "塞外奇侠传",
+      "fullName": "塞外奇侠传[恒格电子](CN)[RPG](4Mb)",
+      "path": "roms/luyu(538).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "塞尔达传说 - 幻想大陆海尔拉",
+      "fullName": "塞尔达传说 - 幻想大陆海尔拉 (Zpix)[小笨笨汉化](US)[RPG](1Mb)",
+      "path": "roms/luyu(533).nes",
+      "mapper": 1,
+      "category": "RPG",
+      "size": 131088
+    },
+    {
+      "name": "塞尔达传说 - 幻想大陆海尔拉",
+      "fullName": "塞尔达传说 - 幻想大陆海尔拉[小笨笨汉化](US)[RPG](1Mb)",
+      "path": "roms/luyu(534).nes",
+      "mapper": 1,
+      "category": "RPG",
+      "size": 131088
+    },
+    {
+      "name": "太空战士5",
+      "fullName": "太空战士5[火星电子](CN)[RPG](4Mb)",
+      "path": "roms/luyu(658).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "封神榜 - 伏魔三太子",
+      "fullName": "封神榜 - 伏魔三太子[C&E Inc (147201688 转简体版)](CN)[RPG](8Mb)",
+      "path": "roms/luyu(156).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "封神榜 - 伏魔三太子",
+      "fullName": "封神榜 - 伏魔三太子[C&E Inc](CN)[RPG](8Mb)",
+      "path": "roms/luyu(157).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 786448
+    },
+    {
+      "name": "怪物制造者1",
+      "fullName": "怪物制造者1[外星科技汉化](JP)[RPG](4Mb)",
+      "path": "roms/luyu(178).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "怪物制造者2",
+      "fullName": "怪物制造者2[外星科技汉化](JP)[RPG](4Mb)",
+      "path": "roms/luyu(179).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "战国风云",
+      "fullName": "战国风云[晶科泰](CN)[RPG](2Mb)",
+      "path": "roms/luyu(869).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "机甲战士",
+      "fullName": "机甲战士[外星科技](JP)[RPG](6Mb)",
+      "path": "roms/luyu(231).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "林则徐禁烟",
+      "fullName": "林则徐禁烟[外星科技 nfzxyd修正](CN)[RPG](4Mb)",
+      "path": "roms/luyu(325).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "核心危机",
+      "fullName": "核心危机[南晶科技](CN)[RPG](16Mb)",
+      "path": "roms/luyu(186).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "梦幻 - 香帅传奇之血海飘零",
+      "fullName": "梦幻 - 香帅传奇之血海飘零[恒格电子](CN)[RPG](4Mb)",
+      "path": "roms/luyu(409).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "梦幻仙境",
+      "fullName": "梦幻仙境[恒格电子](CN)[RPG](8Mb)",
+      "path": "roms/luyu(411).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "楚留香 - 香帅传奇之血海飘零",
+      "fullName": "楚留香 - 香帅传奇之血海飘零[外星科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(84).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "混沌世界",
+      "fullName": "混沌世界[外星科技汉化](JP)[RPG](6Mb)",
+      "path": "roms/luyu(220).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 262160
+    },
+    {
+      "name": "火焰使者",
+      "fullName": "火焰使者[恒格电子](JP)[RPG](4Mb)",
+      "path": "roms/luyu(224).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "红问号",
+      "fullName": "红问号[南通科技](JP)[RPG](4Mb)",
+      "path": "roms/luyu(197).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "落日征战",
+      "fullName": "落日征战[晶科泰](CN)[RPG](8Mb)",
+      "path": "roms/luyu(358).nes",
+      "mapper": 1,
+      "category": "RPG",
+      "size": 262160
+    },
+    {
+      "name": "虎门硝烟",
+      "fullName": "虎门硝烟[酷哥电子](CN)[RPG](4Mb)",
+      "path": "roms/luyu(199).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "魔域英雄传",
+      "fullName": "魔域英雄传[外星科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(440).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "魔塔",
+      "fullName": "魔塔[earth幻灭](CN)[RPG](1.25Mb)",
+      "path": "roms/luyu(439).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 163856
+    },
+    {
+      "name": "魔神法师",
+      "fullName": "魔神法师[外星科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(436).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "魔神英雄传外传",
+      "fullName": "魔神英雄传外传 (v2.0)[Ken XYGong Macro汉化](JP)[RPG](4Mb)",
+      "path": "roms/luyu(437).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "魔道劫",
+      "fullName": "魔道劫[南晶科技](CN)[RPG](8Mb)",
+      "path": "roms/luyu(424).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 1048592
+    },
+    {
+      "name": "鹿鼎记",
+      "fullName": "鹿鼎记[南晶科技](CN)[RPG](4Mb)",
+      "path": "roms/luyu(353).nes",
+      "mapper": 0,
+      "category": "RPG",
+      "size": 40976
+    },
+    {
+      "name": "龙之谷",
+      "fullName": "龙之谷[外星科技汉化](JP)[RPG](4Mb)",
+      "path": "roms/luyu(332).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "龙魂",
+      "fullName": "龙魂[外星科技汉化](JP)[RPG](4Mb)",
+      "path": "roms/luyu(330).nes",
+      "mapper": 4,
+      "category": "RPG",
+      "size": 524304
+    },
+    {
+      "name": "东周列国志",
+      "fullName": "东周列国志[外星科技](CN)[SLG](4Mb)",
+      "path": "roms/luyu(130).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "乱世三国",
+      "fullName": "乱世三国[南晶科技](CN)[SLG](4Mb)",
+      "path": "roms/luyu(357).nes",
+      "mapper": 2,
+      "category": "SLG",
+      "size": 131088
+    },
+    {
+      "name": "大战略",
+      "fullName": "大战略[未知](JP)[SLG](2Mb)",
+      "path": "roms/luyu(106).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 262160
+    },
+    {
+      "name": "帝国风暴",
+      "fullName": "帝国风暴[外星科技](CN)[SLG](4Mb)",
+      "path": "roms/luyu(119).nes",
+      "mapper": 0,
+      "category": "SLG",
+      "size": 24592
+    },
+    {
+      "name": "成吉思汗",
+      "fullName": "成吉思汗[外星科技汉化](JP)[SLG](4Mb)",
+      "path": "roms/luyu(63).nes",
+      "mapper": 0,
+      "category": "SLG",
+      "size": 40976
+    },
+    {
+      "name": "拳霸4",
+      "fullName": "拳霸4[恒格电子](JP)[SLG](4Mb)",
+      "path": "roms/luyu(482).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "机器人大战",
+      "fullName": "机器人大战[南晶科技](CN)[SLG](16Mb)",
+      "path": "roms/luyu(233).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "机器战士高达",
+      "fullName": "机器战士高达[晶科泰](JP)[SLG](4Mb)",
+      "path": "roms/luyu(234).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 671760
+    },
+    {
+      "name": "楚汉争霸",
+      "fullName": "楚汉争霸[外星科技](CN)[SLG](4Mb)",
+      "path": "roms/luyu(83).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "欧陆之战",
+      "fullName": "欧陆之战[外星科技](CN)[SLG](4Mb)",
+      "path": "roms/luyu(450).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "甲A",
+      "fullName": "甲A[外星科技](CN)[SLG](6Mb)",
+      "path": "roms/luyu(243).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 786448
+    },
+    {
+      "name": "第2次超级机器人大战",
+      "fullName": "第2次超级机器人大战 (记忆修正版)[先锋卡通汉化](JP)[SLG](4Mb)",
+      "path": "roms/luyu(115).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "绝代英雄",
+      "fullName": "绝代英雄[外星科技汉化](JP)[SLG](4Mb)",
+      "path": "roms/luyu(269).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "超魔兽大战",
+      "fullName": "超魔兽大战[封印记忆汉化](JP)[SLG](3Mb)",
+      "path": "roms/luyu(58).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 393232
+    },
+    {
+      "name": "魔幻三国志",
+      "fullName": "魔幻三国志[晶科泰](CN)[SLG](4Mb)",
+      "path": "roms/luyu(429).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "魔法门之英雄无敌",
+      "fullName": "魔法门之英雄无敌[外星科技](CN)[SLG](4Mb)",
+      "path": "roms/luyu(427).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "魔道士阴谋",
+      "fullName": "魔道士阴谋[外星汉化汉化 MS第二次修正](JP)[SLG](4Mb)",
+      "path": "roms/luyu(425).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "魔道士阴谋",
+      "fullName": "魔道士阴谋[外星科技汉化 姜维第二修正](JP)[SLG](4Mb)",
+      "path": "roms/luyu(426).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 524304
+    },
+    {
+      "name": "龙珠英雄",
+      "fullName": "龙珠英雄 (半熟英雄)[外星科技汉化](JP)[SLG](2Mb)",
+      "path": "roms/luyu(351).nes",
+      "mapper": 4,
+      "category": "SLG",
+      "size": 262160
+    },
+    {
+      "name": "热血篮球",
+      "fullName": "热血篮球 (v0.9)[AXI AHE汉化](JP)[SPG](2.87Mb)",
+      "path": "roms/luyu(493).nes",
+      "mapper": 4,
+      "category": "SPG",
+      "size": 376848
+    },
+    {
+      "name": "热血篮球",
+      "fullName": "热血篮球[油气车汉化](JP)[SPG](6Mb)",
+      "path": "roms/luyu(494).nes",
+      "mapper": 4,
+      "category": "SPG",
+      "size": 786464
+    },
+    {
+      "name": "热血进行曲",
+      "fullName": "热血进行曲 (v20160408)[Nokoh汉化](JP)[SPG](3.68Mb)",
+      "path": "roms/luyu(491).nes",
+      "mapper": 4,
+      "category": "SPG",
+      "size": 483344
+    },
+    {
+      "name": "热血进行曲",
+      "fullName": "热血进行曲[PKome汉化](JP)[SPG](2Mb)",
+      "path": "roms/luyu(492).nes",
+      "mapper": 4,
+      "category": "SPG",
+      "size": 262160
+    },
+    {
+      "name": "热血高校躲避球部",
+      "fullName": "热血高校躲避球部[Old Liu汉化](JP)[SPG](2Mb)",
+      "path": "roms/luyu(487).nes",
+      "mapper": 1,
+      "category": "SPG",
+      "size": 262160
+    },
+    {
+      "name": "花式九球",
+      "fullName": "花式九球 (版本1)[星空汉化](US)[SPG](1Mb)",
+      "path": "roms/luyu(201).nes",
+      "mapper": 2,
+      "category": "SPG",
+      "size": 131088
+    },
+    {
+      "name": "花式九球",
+      "fullName": "花式九球 (版本2)[星空汉化](JP)[SPG](1.43Mb)",
+      "path": "roms/luyu(202).nes",
+      "mapper": 4,
+      "category": "SPG",
+      "size": 188432
+    },
+    {
+      "name": "花式九球",
+      "fullName": "花式九球[MM之神汉化](US)[SPG](1Mb)",
+      "path": "roms/luyu(203).nes",
+      "mapper": 2,
+      "category": "SPG",
+      "size": 131088
+    },
+    {
+      "name": "兵蜂",
+      "fullName": "兵蜂[MS汉化](JP)[STG](0.37Mb)",
+      "path": "roms/luyu(23).nes",
+      "mapper": 3,
+      "category": "STG",
+      "size": 49168
+    },
+    {
+      "name": "兵蜂3",
+      "fullName": "兵蜂3[MS汉化](JP)[STG](2Mb)",
+      "path": "roms/luyu(22).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "加纳战机",
+      "fullName": "加纳战机 (v1.0)[KASURA·J & 九班汉化](US)[STG](3Mb)",
+      "path": "roms/luyu(241).nes",
+      "mapper": 4,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "加纳战机",
+      "fullName": "加纳战机[孔雀天汉化](US)[STG](2Mb)",
+      "path": "roms/luyu(242).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "变形战机Z",
+      "fullName": "变形战机Z[muxly汉化](JP)[STG](0.37Mb)",
+      "path": "roms/luyu(21).nes",
+      "mapper": 3,
+      "category": "STG",
+      "size": 49168
+    },
+    {
+      "name": "古巴战士",
+      "fullName": "古巴战士[惊风汉化](JP)[STG](2Mb)",
+      "path": "roms/luyu(176).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "嘉蒂外传",
+      "fullName": "嘉蒂外传 (v1.1)[汉化你妹汉化组汉化](JP)[STG](2Mb)",
+      "path": "roms/luyu(239).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 688160
+    },
+    {
+      "name": "坦克大作战",
+      "fullName": "坦克大作战[模拟中文网 流心小雨汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(663).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "坦克大战",
+      "fullName": "坦克大战[3DM汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(660).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "坦克大战",
+      "fullName": "坦克大战[ENTA汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(661).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "坦克大战",
+      "fullName": "坦克大战[郭元汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(662).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "坦克大战2008",
+      "fullName": "坦克大战2008[叶枫汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(659).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "坦克风云",
+      "fullName": "坦克风云[金明汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(664).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "坦克风云",
+      "fullName": "坦克风云[三协资讯](CN)[STG](0.5Mb)",
+      "path": "roms/luyu(665).nes",
+      "mapper": 3,
+      "category": "STG",
+      "size": 65552
+    },
+    {
+      "name": "大蜜蜂",
+      "fullName": "大蜜蜂[MS汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(102).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "太空射击战",
+      "fullName": "太空射击战 (v20100408)[Nokoh汉化](US)[STG](1.37Mb)",
+      "path": "roms/luyu(657).nes",
+      "mapper": 34,
+      "category": "STG",
+      "size": 1048592
+    },
+    {
+      "name": "导弹坦克",
+      "fullName": "导弹坦克 (v1.0)[九班汉化](JP)[STG](0.31Mb)",
+      "path": "roms/luyu(110).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 40976
+    },
+    {
+      "name": "导弹坦克",
+      "fullName": "导弹坦克[烟山科技修改](JP)[STG](0.31Mb)",
+      "path": "roms/luyu(111).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 40976
+    },
+    {
+      "name": "火鸟",
+      "fullName": "火鸟[hjind1213汉化](JP)[STG](2Mb)",
+      "path": "roms/luyu(223).nes",
+      "mapper": 4,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "烈火92",
+      "fullName": "烈火92[幻想汉化 MS修正](JP)[STG](2Mb)",
+      "path": "roms/luyu(324).nes",
+      "mapper": 4,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "空中魂斗罗",
+      "fullName": "空中魂斗罗 (v1.0)[星空汉化](JP)[STG](2Mb)",
+      "path": "roms/luyu(275).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "空中魂斗罗",
+      "fullName": "空中魂斗罗[金明汉化](JP)[STG](2Mb)",
+      "path": "roms/luyu(277).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "空中魂斗罗 - 纽约行动",
+      "fullName": "空中魂斗罗 - 纽约行动[maoweimam汉化](EU)[STG](2Mb)",
+      "path": "roms/luyu(276).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "红巾特攻队",
+      "fullName": "红巾特攻队[佛易汉化组 8GUA汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(195).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "荒野大镖客",
+      "fullName": "荒野大镖客[高艳龙汉化 MS修正](US)[STG](1Mb)",
+      "path": "roms/luyu(207).nes",
+      "mapper": 2,
+      "category": "STG",
+      "size": 131088
+    },
+    {
+      "name": "超时空要塞",
+      "fullName": "超时空要塞[姜维第二汉化](JP)[STG](0.18Mb)",
+      "path": "roms/luyu(59).nes",
+      "mapper": 0,
+      "category": "STG",
+      "size": 24592
+    },
+    {
+      "name": "超级铁板阵 - 加索布之谜",
+      "fullName": "超级铁板阵 - 加索布之谜[MS汉化](JP)[STG](1.25Mb)",
+      "path": "roms/luyu(53).nes",
+      "mapper": 4,
+      "category": "STG",
+      "size": 163856
+    },
+    {
+      "name": "超越地平线",
+      "fullName": "超越地平线[Nineswords汉化](JP)[STG](6Mb)",
+      "path": "roms/luyu(61).nes",
+      "mapper": 4,
+      "category": "STG",
+      "size": 786464
+    },
+    {
+      "name": "铁血战士",
+      "fullName": "铁血战士[MS汉化](US)[STG](2Mb)",
+      "path": "roms/luyu(690).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "飞人战士",
+      "fullName": "飞人战士[金明汉化](JP)[STG](2Mb)",
+      "path": "roms/luyu(152).nes",
+      "mapper": 1,
+      "category": "STG",
+      "size": 262160
+    },
+    {
+      "name": "东风",
+      "fullName": "东风[天使汉化组](JP)[TAB](2Mb)",
+      "path": "roms/luyu(129).nes",
+      "mapper": 1,
+      "category": "TAB",
+      "size": 262160
+    },
+    {
+      "name": "偷看扑克",
+      "fullName": "偷看扑克[星空汉化](CN)[TAB](0.75Mb)",
+      "path": "roms/luyu(691).nes",
+      "mapper": 3,
+      "category": "TAB",
+      "size": 98320
+    },
+    {
+      "name": "内藤九段 - 将棋秘传",
+      "fullName": "内藤九段 - 将棋秘传[九班汉化](JP)[TAB](0.18Mb)",
+      "path": "roms/luyu(445).nes",
+      "mapper": 0,
+      "category": "TAB",
+      "size": 24592
+    },
+    {
+      "name": "弹珠台",
+      "fullName": "弹珠台[MS汉化](JU)[TAB](0.18Mb)",
+      "path": "roms/luyu(108).nes",
+      "mapper": 0,
+      "category": "TAB",
+      "size": 24592
+    },
+    {
+      "name": "扑克",
+      "fullName": "扑克[惊风汉化](JP)[TAB](0.43Mb)",
+      "path": "roms/luyu(460).nes",
+      "mapper": 3,
+      "category": "TAB",
+      "size": 57360
+    },
+    {
+      "name": "扑克精灵",
+      "fullName": "扑克精灵[Idea-Tek](CN)[TAB](0.37Mb)",
+      "path": "roms/luyu(462).nes",
+      "mapper": 3,
+      "category": "TAB",
+      "size": 49168
+    },
+    {
+      "name": "扑克集锦",
+      "fullName": "扑克集锦[Sachen](CN)[TAB](0.18Mb)",
+      "path": "roms/luyu(461).nes",
+      "mapper": 0,
+      "category": "TAB",
+      "size": 24592
+    },
+    {
+      "name": "暗棋",
+      "fullName": "暗棋[Joy Van](CN)[TAB](0.18Mb)",
+      "path": "roms/luyu(7).nes",
+      "mapper": 0,
+      "category": "TAB",
+      "size": 24592
+    },
+    {
+      "name": "洛克人X",
+      "fullName": "洛克人X[外星科技](JP)[TAB](4Mb)",
+      "path": "roms/luyu(372).nes",
+      "mapper": 4,
+      "category": "TAB",
+      "size": 1048592
+    },
+    {
+      "name": "电视玛琍",
+      "fullName": "电视玛琍[Namco](CN)[TAB](0.5Mb)",
+      "path": "roms/luyu(125).nes",
+      "mapper": 3,
+      "category": "TAB",
+      "size": 65552
+    },
+    {
+      "name": "红楼梦",
+      "fullName": "红楼梦[南晶科技](CN)[TAB](4Mb)",
+      "path": "roms/luyu(196).nes",
+      "mapper": 4,
+      "category": "TAB",
+      "size": 524304
+    },
+    {
+      "name": "财神到",
+      "fullName": "财神到[未知](CN)[TAB](4Mb)",
+      "path": "roms/luyu(25).nes",
+      "mapper": 4,
+      "category": "TAB",
+      "size": 524304
+    },
+    {
+      "name": "超一流烟山杯围棋",
+      "fullName": "超一流烟山杯围棋[烟山软件汉化](JP)[TAB](0.5Mb)",
+      "path": "roms/luyu(60).nes",
+      "mapper": 3,
+      "category": "TAB",
+      "size": 65552
+    },
+    {
+      "name": "锄大D",
+      "fullName": "锄大D[台北裕威](CN)[TAB](1Mb)",
+      "path": "roms/luyu(81).nes",
+      "mapper": 4,
+      "category": "TAB",
+      "size": 131088
+    },
+    {
+      "name": "麻雀",
+      "fullName": "麻雀 (v1.1a)[星空汉化](JP)[TAB](0.31Mb)",
+      "path": "roms/luyu(377).nes",
+      "mapper": 0,
+      "category": "TAB",
+      "size": 40976
+    },
+    {
+      "name": "黑白棋",
+      "fullName": "黑白棋 (v1.0)[九班汉化](US)[TAB](0.31Mb)",
+      "path": "roms/luyu(190).nes",
+      "mapper": 0,
+      "category": "TAB",
+      "size": 40976
+    }
+  ],
+  "meta": {
+    "total": 315,
+    "categories": {
+      "ACT": 142,
+      "AVG": 2,
+      "DMG": 3,
+      "ETC": 10,
+      "FTG": 5,
+      "PUZ": 24,
+      "RAC": 7,
+      "RPG": 49,
+      "SLG": 19,
+      "SPG": 8,
+      "STG": 30,
+      "TAB": 16
+    }
+  }
+}
